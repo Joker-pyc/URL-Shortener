@@ -26,4 +26,4 @@ jobs:
         pip install -r requirements.txt
     - name: Run URL Shortener application
       run: |
-        python url_shortener/url_app.py
+        python /url_app.py
