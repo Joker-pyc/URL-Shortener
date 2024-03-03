@@ -1,2 +1,2 @@
-# URL-Shortener
- URL-Shortener made using Python and html using the flask and the urlshortener python  libary 
+# URL-Shortner
+ URL Shortner app for minimizing urls using python and html 
